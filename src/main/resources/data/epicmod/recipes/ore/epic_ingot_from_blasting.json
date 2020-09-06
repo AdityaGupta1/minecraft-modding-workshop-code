@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "epicmod:epic_ore"
+  },
+  "result": "epicmod:epic_ingot",
+  "experience": 1,
+  "cookingtime": 100
+}

@@ -1,0 +1,18 @@
+{
+  "item.epicmod.epic_ingot": "Epic Ingot",
+
+  "item.epicmod.epic_sword": "Epic Sword",
+  "item.epicmod.epic_axe": "Epic Axe",
+  "item.epicmod.epic_pickaxe": "Epic Pickaxe",
+  "item.epicmod.epic_shovel": "Epic Shovel",
+  "item.epicmod.epic_hoe": "Epic Hoe",
+
+  "item.epicmod.epic_helmet": "Epic Helmet",
+  "item.epicmod.epic_chestplate": "Epic Chestplate",
+  "item.epicmod.epic_leggings": "Epic Leggings",
+  "item.epicmod.epic_boots": "Epic Boots",
+
+  "block.epicmod.epic_ore": "Epic Ore",
+
+  "itemGroup.epicmod": "Epic Mod"
+}
